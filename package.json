@@ -1,0 +1,8 @@
+{
+  "name": "covidbot",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-telegram-bot-api":"0.40.0",
+    "node-fetch":"2.6.0"
+  }
+}
