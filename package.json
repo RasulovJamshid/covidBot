@@ -1,8 +1,28 @@
 {
-  "name": "covidbot",
+  "name": "covid-bot",
   "version": "1.0.0",
+  "description": "telegram bot",
+  "main": "bot.js",
   "dependencies": {
-    "node-telegram-bot-api":"0.40.0",
-    "node-fetch":"2.6.0"
-  }
+    "node-fetch": "^2.6.0",
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasulovJamshid/covidBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Jamshid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RasulovJamshid/covidBot/issues"
+  },
+  "homepage": "https://github.com/RasulovJamshid/covidBot#readme"
 }

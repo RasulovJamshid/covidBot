@@ -29,8 +29,8 @@ bot.on('message', (msg) => {
         \n today deaths : <code>${data[i].todayDeaths}</code>
         \n cases per one million : <code>${data[i].casesPerOneMillion}</code>
         \n <code>${timeInMs}</code>
-        \n \n <i>Wear a Mask to Protect You Against the Coronavirus</i>
-        \n <i>Stay at Home</i>
+        \n \n <i>Wear a Mask😷 to Protect You Against the Coronavirus🦠</i>
+        \n <i>Stay at Home🏠</i>
         \n <a href="tg://user?id=1121537720">COVID_BOT(unofficial)</a>
         `
 
