@@ -4,7 +4,7 @@
   "description": "telegram bot",
   "main": "bot.js",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-telegram-bot-api": "^0.40.0"
   },
   "scripts": {
